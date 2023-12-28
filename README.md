@@ -1,7 +1,11 @@
 ### Hi there 👋
 ## 👋 &nbsp;Hey there! I'm Prashant
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+<img alt="Night Coding" src="./IMP/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+
+![Hand Wave](https://github.com/prashant-gangthade/prashant-gangthade/assets/78341788/20c195cb-be43-4265-b185-89d0750cb586)
+
+
 <!--
 **prashant-gangthade/prashant-gangthade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
