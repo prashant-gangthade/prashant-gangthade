@@ -1,9 +1,17 @@
 ### Hi there 👋
 ## 👋 &nbsp;Hey there! I'm Prashant
 
-<img alt="Night Coding" src="./IMP/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+### 👨🏻‍💻 &nbsp;About Me
 
-![Hand Wave](https://github.com/prashant-gangthade/prashant-gangthade/assets/78341788/20c195cb-be43-4265-b185-89d0750cb586)
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
+🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
+✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
+💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 
 <!--
@@ -23,8 +31,14 @@ Here are some ideas to get you started:
 ![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+-->
+<!-- 
+## 👋 &nbsp;Hey there! I'm Aditya 
+<img alt="Night Coding" src="./IMP/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+![Hand Wave](https://github.com/prashant-gangthade/prashant-gangthade/assets/78341788/20c195cb-be43-4265-b185-89d0750cb586)
+
+-->
 
 <!--
 
