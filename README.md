@@ -13,6 +13,7 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
+<img alt="Night Coding" src="https://github.com/prashant-gangthade/prashant-gangthade/blob/main/IMP/Night-Coding.gif" align="right"/>
 
 <!--
 **prashant-gangthade/prashant-gangthade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
