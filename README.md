@@ -1,5 +1,7 @@
 ### Hi there 👋
+## 👋 &nbsp;Hey there! I'm Prashant
 
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
 <!--
 **prashant-gangthade/prashant-gangthade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,6 +21,8 @@ Here are some ideas to get you started:
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+
+<!--
 
 ### 👨🏻‍💻 &nbsp;About Me
 
